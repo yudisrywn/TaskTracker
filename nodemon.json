@@ -1,0 +1,3 @@
+{
+  "ignore": ["data/task.json", "data/id-counter.json"]
+}
